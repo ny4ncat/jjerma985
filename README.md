@@ -1,6 +1,11 @@
+c+h , w2i
 
 
-<img src="https://github.com/user-attachments/assets/340e080d-516a-4baa-a642-6efa3a8fe51c" width="250" align="left" hspace="25"/>
+<p align="center">
+<picture>
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/82d51602-0854-4062-9b1a-f2473dd41479" />
+</picture>
+
 
 
 
